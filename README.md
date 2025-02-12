@@ -1,23 +1,12 @@
 # Welcome to my website
-## This is heading 2 text
-### This is heading 3 text
+## This was created with GitHub Pages
+### Let's dive in 
 
-**Bold text**
+## Foundations of Software Engineering 
+### Written Assignment Week 2
 
-_Italicized text_
-
-~~This text has been cancelled~~
-
-**This text is _extremely_ important**
-
-***All this text is important***
-
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscript</sup> text
-
-This is an <ins>underlined</ins> text
-
-> Text that is a quote
+1. Explain the purpose of your website.
+2. Explain the challenges and limitations you faced while creating the website in GitHub Pages.
+3. What steps did you take to overcome the challenges and limitations? 
 
 This site was built using [GitHub Pages](https://pages.github.com)
